@@ -91,11 +91,12 @@ function getseconds() {
     //from total seconds remaining 
     return secs - Math.round(mins * 60); 
 }
- 
+
 
 //CONSTANTS
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 3;
+
+const MAX_QUESTIONS = 10;
 
 startGame = () => {
   questionCounter = 0;

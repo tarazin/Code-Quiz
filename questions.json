@@ -24,4 +24,67 @@
       "choice4": "alert('Hello World');",
       "answer": 4
     }
+
+    {
+      "question": " How can you get the total number of arguments passed to a function?",
+      "choice1": "Using args.length property",
+      "choice2": "Using arguments.length property",
+      "choice3": "Both of the above.",
+      "choice4": "None of the above.",
+      "answer": 2
+    }
+
+    {
+      "question": "Which built-in method calls a function for each element in the array?",
+      "choice1": "while()",
+      "choice2": "loop()",
+      "choice3": "forEach()",
+      "choice4": "None of the above.",
+      "answer": 3
+    }
+
+    {
+      "question": " How do you write 'Hello World' in an alert box?",
+      "choice1": "msgBox('Hello World');",
+      "choice2": "alertBox('Hello World');",
+      "choice3": "msg('Hello World');",
+      "choice4": "alert('Hello World');",
+      "answer": 4
+    }
+
+    {
+      "question": "Which built-in method returns the calling string value converted to upper case?",
+      "choice1": "toUpperCase()",
+      "choice2": "toUpper()",
+      "choice3": "changeCase(case)",
+      "choice4": "None of the above.",
+      "answer": 1
+    }
+
+    {
+      "question": " Which of the following function of Boolean object returns a string of either 'true' or 'false' depending upon the value of the object?",
+      "choice1": "toSource()",
+      "choice2": "valueOf()",
+      "choice3": " toString()",
+      "choice4": "None of the above.",
+      "answer": 3
+    }
+
+    {
+      "question": "Which of the following function of String object causes a string to be italic, as if it were in an <i> tag?",
+      "choice1": "fixed()",
+      "choice2": "fontcolor()",
+      "choice3": "fontsize()",
+      "choice4": "italics()",
+      "answer": 4
+    }
+
+    {
+      "question": " Where is the correct place to insert a JavaScript?",
+      "choice1": "the <body> section",
+      "choice2": "the <head> section",
+      "choice3": "Both of the above.",
+      "choice4": "None of the above.",
+      "answer": 3
+    }
   ]
