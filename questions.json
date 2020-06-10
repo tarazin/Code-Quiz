@@ -23,7 +23,7 @@
       "choice3": "msg('Hello World');",
       "choice4": "alert('Hello World');",
       "answer": 4
-    }
+    },
 
     {
       "question": " How can you get the total number of arguments passed to a function?",
@@ -32,7 +32,7 @@
       "choice3": "Both of the above.",
       "choice4": "None of the above.",
       "answer": 2
-    }
+    },
 
     {
       "question": "Which built-in method calls a function for each element in the array?",
@@ -41,7 +41,7 @@
       "choice3": "forEach()",
       "choice4": "None of the above.",
       "answer": 3
-    }
+    },
 
     {
       "question": " How do you write 'Hello World' in an alert box?",
@@ -50,7 +50,7 @@
       "choice3": "msg('Hello World');",
       "choice4": "alert('Hello World');",
       "answer": 4
-    }
+    },
 
     {
       "question": "Which built-in method returns the calling string value converted to upper case?",
@@ -59,7 +59,7 @@
       "choice3": "changeCase(case)",
       "choice4": "None of the above.",
       "answer": 1
-    }
+    },
 
     {
       "question": " Which of the following function of Boolean object returns a string of either 'true' or 'false' depending upon the value of the object?",
@@ -68,7 +68,7 @@
       "choice3": " toString()",
       "choice4": "None of the above.",
       "answer": 3
-    }
+    },
 
     {
       "question": "Which of the following function of String object causes a string to be italic, as if it were in an <i> tag?",
@@ -77,7 +77,7 @@
       "choice3": "fontsize()",
       "choice4": "italics()",
       "answer": 4
-    }
+    },
 
     {
       "question": " Where is the correct place to insert a JavaScript?",
