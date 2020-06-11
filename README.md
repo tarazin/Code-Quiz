@@ -4,7 +4,7 @@
 
 ```
 coding bootcamp students are going to take a timed quiz on JavaScript fundamentals.
-They also want to gauge their progress compared to my peers!
+They also want to gauge their progress compared to their peers!
 ```
 
 ## Acceptance Criteria
